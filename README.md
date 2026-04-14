@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a Full Stack Developer, and Minecraft server Owner. You can find me on [Discord](https://discordapp.com/users/874506820000047124), [Email](mailto:redbean0721@redbean0721.com), [Blog](https://blog.redbean0721.com)</br>
+I'm a Full Stack Developer, and Minecraft server Owner. You can find me on [Discord](https://discordapp.com/users/949569201587228722), [Email](mailto:redbean0721@redbean0721.com), [Blog](https://blog.redbean0721.com)</br>
 
 ## Contribution
 
