@@ -10,6 +10,10 @@
   </a> -->
 </p>
 
+***
+
+![Visitors](https://count.getloli.com/@redbean0721?name=redbean0721&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
 ## About Me
 
 I'm a Full Stack Developer, and Minecraft server Owner. You can find me on [Discord](https://discordapp.com/users/949569201587228722), [Email](mailto:redbean0721@redbean0721.com), [Blog](https://blog.redbean0721.com)</br>
